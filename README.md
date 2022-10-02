@@ -1,5 +1,7 @@
 # AmbIence
 
+Check other branches for more code design and implementations
+
 Automating personal assistant with AI aimed for college students that allocates your "free/open" time for completion of objectives.
 
 Break it down by semesters. Import information regarding course schedule (whether class is virtual or irl, if the latter, AmbIence would automate and fill the respective time frames in the calendar). E.G. User has class Goverment lecture Tuesdays and Thursdays 10:00-11:15 am, after importing course schedule AmbIence would automatically fill in those time blocks.
