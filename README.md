@@ -29,4 +29,5 @@ Features:
   Goal: Helps users like us (overwhelmed, overworked, and exhausted yet ambitious college students), to automate the burden of their responsability by dealing with all the energy-draining issues as coordinating between several group members a meeting time, finding time to complete school load, etc..  Additionallu well as enabling users to add a wide of range of tasks that reflect revelant areas outside of school for the user, such as work/internship, personal/social events, and more.
   
   https://snack.expo.dev/RXpvjA9t_
+  https://docs.google.com/presentation/d/15Rcn4y_gsFhzodzbpsc-d6d7azkGz22Ffub9qxtApxw/edit#slide=id.p
   
