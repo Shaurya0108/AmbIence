@@ -1,4 +1,4 @@
-"#AmbIence" 
+# AmbIence
 
 Automating personal assistant with AI aimed for college students that allocates your "free/open" time for completion of objectives.
 
