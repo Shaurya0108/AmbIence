@@ -12,12 +12,6 @@ This app will save your calendar event in your native iOS and android calendar.
 yarn install
 ```
 
-## Video
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=cXvFcI8FxdA"><img src="https://img.youtube.com/vi/cXvFcI8FxdA/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
-
 ### Screenshots
 
 <p align="center">
